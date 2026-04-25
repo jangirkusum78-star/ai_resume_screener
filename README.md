@@ -106,7 +106,8 @@ You can use your own PDF resumes to test the application.
 * UI development with Streamlit
 
 ---
-
+## Deployment
+https://airesumescreener-kmqmywdrpydozpxxzyuvqp.streamlit.app/
 ##  Author
 
 Kusum Jangir
