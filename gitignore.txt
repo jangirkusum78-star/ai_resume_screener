@@ -1,0 +1,24 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+
+# OS files
+
+# resumes/
+
+
+# Streamlit
+
+.streamlit/
+
+# CSV outputs
+
+*.csv
